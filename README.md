@@ -1,5 +1,7 @@
 # ⚡ 전력량계량기 OCR프로젝트 Android
 
+빅데이터 기반 AI 응용 솔루션 개발자 전문과정에서 진행한 글자인식 프로젝트
+
 ## 현 Repository는 Android 구현부에 해당됩니다. 
 
 ## 프로젝트 전체 README는 Server Repository에 작성되어 있으므로 아래 링크를 클릭해주세요.
